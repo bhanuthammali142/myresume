@@ -1,0 +1,11 @@
+# Turborepo
+node_modules
+.next
+out
+dist
+.env
+.env.*
+.DS_Store
+*.log
+coverage
+build
